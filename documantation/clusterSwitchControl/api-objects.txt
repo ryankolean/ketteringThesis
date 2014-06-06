@@ -1,0 +1,8 @@
+clusterSwitchControl	clusterSwitchControl-module.html
+clusterSwitchControl.main	clusterSwitchControl-module.html#main
+clusterSwitchControl.SwitchControl	clusterSwitchControl.SwitchControl-class.html
+clusterSwitchControl.SwitchControl.initUI	clusterSwitchControl.SwitchControl-class.html#initUI
+clusterSwitchControl.SwitchControl.closeClicked	clusterSwitchControl.SwitchControl-class.html#closeClicked
+clusterSwitchControl.SwitchControl.makeActionButton	clusterSwitchControl.SwitchControl-class.html#makeActionButton
+clusterSwitchControl.SwitchControl.makeInfoBox	clusterSwitchControl.SwitchControl-class.html#makeInfoBox
+clusterSwitchControl.SwitchControl.__init__	clusterSwitchControl.SwitchControl-class.html#__init__

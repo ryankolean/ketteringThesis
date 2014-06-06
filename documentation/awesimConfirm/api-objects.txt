@@ -1,0 +1,7 @@
+awesimApp.awesimConfirm	awesimApp.awesimConfirm-module.html
+awesimApp.awesimConfirm.main	awesimApp.awesimConfirm-module.html#main
+awesimApp.awesimConfirm.Confirm	awesimApp.awesimConfirm.Confirm-class.html
+awesimApp.awesimConfirm.Confirm.slotEmergencyControl	awesimApp.awesimConfirm.Confirm-class.html#slotEmergencyControl
+awesimApp.awesimConfirm.Confirm.closeClicked	awesimApp.awesimConfirm.Confirm-class.html#closeClicked
+awesimApp.awesimConfirm.Confirm.initUI	awesimApp.awesimConfirm.Confirm-class.html#initUI
+awesimApp.awesimConfirm.Confirm.__init__	awesimApp.awesimConfirm.Confirm-class.html#__init__

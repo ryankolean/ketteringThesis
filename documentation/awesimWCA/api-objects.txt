@@ -1,0 +1,8 @@
+awesimApp.awesimWCA	awesimApp.awesimWCA-module.html
+awesimApp.awesimWCA.main	awesimApp.awesimWCA-module.html#main
+awesimApp.awesimWCA.WCA	awesimApp.awesimWCA.WCA-class.html
+awesimApp.awesimWCA.WCA.makeWCALine	awesimApp.awesimWCA.WCA-class.html#makeWCALine
+awesimApp.awesimWCA.WCA.initUI	awesimApp.awesimWCA.WCA-class.html#initUI
+awesimApp.awesimWCA.WCA.closeClicked	awesimApp.awesimWCA.WCA-class.html#closeClicked
+awesimApp.awesimWCA.WCA.makeActionButton	awesimApp.awesimWCA.WCA-class.html#makeActionButton
+awesimApp.awesimWCA.WCA.__init__	awesimApp.awesimWCA.WCA-class.html#__init__

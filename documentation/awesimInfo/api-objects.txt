@@ -1,0 +1,8 @@
+awesimApp.awesimInfo	awesimApp.awesimInfo-module.html
+awesimApp.awesimInfo.main	awesimApp.awesimInfo-module.html#main
+awesimApp.awesimInfo.Info	awesimApp.awesimInfo.Info-class.html
+awesimApp.awesimInfo.Info.initUI	awesimApp.awesimInfo.Info-class.html#initUI
+awesimApp.awesimInfo.Info.closeClicked	awesimApp.awesimInfo.Info-class.html#closeClicked
+awesimApp.awesimInfo.Info.makeActionButton	awesimApp.awesimInfo.Info-class.html#makeActionButton
+awesimApp.awesimInfo.Info.makeInfoBox	awesimApp.awesimInfo.Info-class.html#makeInfoBox
+awesimApp.awesimInfo.Info.__init__	awesimApp.awesimInfo.Info-class.html#__init__
